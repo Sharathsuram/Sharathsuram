@@ -2,7 +2,7 @@
 📊 Data Scientist | 🤖 Machine Learning Engineer | 📈 Data Enthusiast
 <img align="right" alt="data science" width=300 src="https://d14b9ctw0m6fid.cloudfront.net/ugblog/wp-content/uploads/2019/04/Untitled-2-02.png">
 🌟 About Me:</br>
-🎓 JNTUHUCEH Undergraduate</br>
+🎓 JNTUHUCEH graduate</br>
 🔍 Passionate about the intersection of data and technology, and its potential to drive innovation</br>
 🧠 Deeply involved in researching cutting-edge machine learning techniques</br>
 🚀 Committed to translating data-driven insights into real-world solutions</br>
