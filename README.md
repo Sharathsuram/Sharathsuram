@@ -6,7 +6,7 @@
 🔍 Passionate about the intersection of data and technology, and its potential to drive innovation</br>
 🧠 Deeply involved in researching cutting-edge machine learning techniques</br>
 🚀 Committed to translating data-driven insights into real-world solutions</br>
-📚 Lifelong learner constantly exploring new domains and technologies</br>
+
 
 <h3 align="center">On a journey to unlock the secrets hidden within data and transform them into actionable insights. Data science enthusiast with a passion for solving real-world problems.</h3>
 
